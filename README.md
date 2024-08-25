@@ -1,4 +1,4 @@
-This is a Next.js application for Atlas company as a test for a job interview.
+This is a Next.js application for Atlas company as a test for the job interview.
 
 ## Features
 - [x] **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
