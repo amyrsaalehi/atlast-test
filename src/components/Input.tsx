@@ -48,6 +48,7 @@ const CustomInput = () => {
     setSelectedOption(option);
     setShowDropdown(false);
     handleFilterOptions(option.value);
+    setShowError(false);
   };
 
   return (
