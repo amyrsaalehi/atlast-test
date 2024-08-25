@@ -1,9 +1,9 @@
-import Image from "next/image";
+import CustomInput from "@/components/Input";
 
 export default function Home() {
   return (
     <main className="flex min-h-screen justify-center items-center">
-      <p>hi</p>
+      <CustomInput />
     </main>
   );
 }
